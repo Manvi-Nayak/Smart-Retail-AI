@@ -1,0 +1,44 @@
+# ==========================
+# Core ML Libraries
+# ==========================
+numpy
+pandas
+scikit-learn
+joblib
+
+# ==========================
+# Deep Learning
+# ==========================
+tensorflow
+
+# ==========================
+# Computer Vision
+# ==========================
+opencv-python
+Pillow
+face-recognition
+
+# ==========================
+# NLP
+# ==========================
+nltk
+
+# ==========================
+# FastAPI Backend
+# ==========================
+fastapi
+uvicorn
+python-multipart
+pydantic
+
+# ==========================
+# Jupyter Notebook
+# ==========================
+notebook
+ipykernel
+
+# ==========================
+# Utilities
+# ==========================
+matplotlib
+seaborn
