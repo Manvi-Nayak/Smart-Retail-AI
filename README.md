@@ -37,10 +37,10 @@ An AI-powered retail platform that combines multiple Machine Learning and Comput
                FastAPI Backend
                       │
              Smart Retail Pipeline
-        ┌─────────┬─────────┬─────────┬─────────┐
-        ▼         ▼         ▼         ▼
-   Chatbot   Sentiment   Product   Face Recognition
-                             Classification
+        ┌──────────────┬──────────────┬─────────────┬
+        ▼              ▼              ▼             ▼
+   Chatbot         Sentiment       Product     Face-Recognition
+                                Classification
 ```
 
 The project uses a centralized AI Pipeline that loads all AI services once during application startup and routes requests to the appropriate module.
